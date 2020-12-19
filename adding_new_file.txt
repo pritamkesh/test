@@ -1,0 +1,1 @@
+Hi, I am doing this demo to show you and additional file adding from local to stage and then to git repo.
